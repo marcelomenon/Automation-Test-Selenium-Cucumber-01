@@ -4,9 +4,8 @@ Pre-condition:
 
 https://github.com/marcelomenon/Java-Web-Application-01
 
-Requirements:
+Cucumbers Jars as requirements:
 
-- Cucumbers Jars:
 - cobertura-2.1.1
 - cucumber-core-1.2.5
 - cucumber-java-1.2.5
